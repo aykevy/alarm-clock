@@ -1,5 +1,5 @@
 # Alarm Clock
-This is the code for the my embedded alarm clock. You can set adjust the clock to the current time and date and assign multiple alarm times. When it hits the alarm times, the computer plays the song twinkle twinkle little star.
+This is the code for the my embedded alarm clock. You can set or adjust the clock to the current time and date and assign multiple alarms. When it hits the alarm time, the computer plays the song twinkle twinkle little star.
 
 
 <img src="Picture.jpeg" width="400" height="600">
