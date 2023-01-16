@@ -1,9 +1,10 @@
 # Alarm Clock
 This is the code for the my embedded alarm clock. You can set adjust the clock to the current time and date and assign multiple alarm times. When it hits the alarm times, the computer plays the song twinkle twinkle little star.
 
-![Alarm](Picture.jpeg)
-<img src="Picture.jpeg" width="100" height="100">
-![Schematic](Schematic.jpeg)
+
+<img src="Picture.jpeg" width="400" height="400">
+<img src="Schematic.jpeg" width="400" height="400">
+
 
 ## Hardware
 - Breadboard
