@@ -2,8 +2,8 @@
 This is the code for the my embedded alarm clock. You can set adjust the clock to the current time and date and assign multiple alarm times. When it hits the alarm times, the computer plays the song twinkle twinkle little star.
 
 
-<img src="Picture.jpeg" width="400" height="400">
-<img src="Schematic.jpeg" width="400" height="400">
+<img src="Picture.jpeg" width="500" height="500">
+<img src="Schematic.jpeg" width="400" height="600">
 
 
 ## Hardware
